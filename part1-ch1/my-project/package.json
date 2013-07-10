@@ -1,0 +1,7 @@
+{
+	"name" : "my-colors-project",
+	"version" : "0.0.1",
+	"dependencies" : {
+		"colours" : "0.6.0-2"
+	}
+}
